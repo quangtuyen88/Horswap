@@ -1,7 +1,8 @@
 {
-  "name": "@darkflorist/horswap",
+  "name": "@kenz/horswap",
   "version": "1.0.0",
   "description": "Horswap Interface",
+  "repository": "https://github.com/quangtuyen88/Horswap",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "ajv": "node scripts/compile-ajv-validators.js",

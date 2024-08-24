@@ -8,7 +8,7 @@
   "editor.formatOnSave": false,
   "editor.inlineSuggest.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": "true"
   },
   "files.eol": "\n",
   "eslint.enable": true,
